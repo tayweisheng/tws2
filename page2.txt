@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8" />
+<title>SG Rep'</title>
+<center>
+<nav>
+<a href="index.html">Race info</a> |
+<a href="page2.html">SG Rep'</a> |
+<a href="page3.html">Hall of Fame</a> |
+</nav>
+</center>
+</head>
+<body style="background-color:red;">
+<center>
+<h style="font-size:250px; color:White">SOH <br> RUI YONG</h>
+</center>
+<div class="container">
+  <img src="ruiyong.jpg" alt="Rui Yong" style="width:100%;">
+<div class="bottom-left">4 World Half Marathon <br> Championship Teams Made</div>
+  <div class="top-left">2 SEA Games Gold Medals</div>
+  <div class="top-right">5 Singapore Records Held</div>
+<div class="bottom-right">Most Sub-69:00 half marathons <br> by S'porean</div>
+</body>
+
